@@ -1,16 +1,8 @@
 # Personal Portfolio Site
 
-![Portfolio Site Screenshot](screenshot.png)
-
 Welcome to my personal portfolio site hosted on GitHub! This site showcases my projects, skills, and experiences to potential employers, collaborators, and curious visitors.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+[https://kmr-ankitt.github.io/Piscan-portfolio/](https://kmr-ankitt.github.io/Piscan-portfolio/)
 
 ## Introduction
 
