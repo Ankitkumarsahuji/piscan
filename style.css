@@ -408,12 +408,25 @@ section .title::after{
     font-size: 25px;
     color: crimson;
 }
+
+.contact .contact-content .row  :hover{
+    color: grey;
+}
+
 .contact .contact-content .info .head{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
     color: #333;
 }
+
+.contact .contact-content .info .sub-title a{
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;;
+}
+
+
 .contact .right form .fields{
     display: flex;
 }
