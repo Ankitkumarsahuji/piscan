@@ -537,8 +537,9 @@ section .title::after {
 }
 
 .contact .contact-content .icons .social-links .row a {
-  margin-right: 20px; /* Adjust spacing between icons */
-  margin-left: 3rem; /* Adjust spacing between icons */
+    margin-top: 2rem;
+  margin-right: 4rem; /* Adjust spacing between icons */
+  margin-left: 0rem; /* Adjust spacing between icons */
 }
 
 .contact .contact-content .icons .social-links .row :hover {
