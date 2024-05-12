@@ -6,16 +6,28 @@ $(document).ready(function () {
     window.location.href = "https://github.com/kmr-ankitt/Zealot";
   });
 
-  // Add click event listener to the garbage collector card
-  $("#gc-card").click(function () {
+  // Add click event listener to the portfolio card
+  $("#cax-card").click(function () {
     // Redirect to the specified link
-    window.location.href = "https://github.com/kmr-ankitt/Garbage-Collector";
+    window.location.href = "https://github.com/kmr-ankitt/Cax";
+  });
+  
+  // Add click event listener to the portfolio card
+  $("#bfg-card").click(function () {
+    // Redirect to the specified link
+    window.location.href = "https://github.com/kmr-ankitt/Brainfuck-go";
   });
 
   // Add click event listener to the portfolio card
   $("#porfolio-card").click(function () {
     // Redirect to the specified link
     window.location.href = "https://github.com/kmr-ankitt/Piscan-portfolio";
+  });
+  
+  // Add click event listener to the garbage collector card
+  $("#gc-card").click(function () {
+    // Redirect to the specified link
+    window.location.href = "https://github.com/kmr-ankitt/Garbage-Collector";
   });
 
   $(window).scroll(function () {
