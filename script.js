@@ -13,6 +13,12 @@ $(document).ready(function () {
   });
   
   // Add click event listener to the portfolio card
+  $("#myshell-card").click(function () {
+    // Redirect to the specified link
+    window.location.href = "https://github.com/kmr-ankitt/Myshell";
+  });
+
+  // Add click event listener to the portfolio card
   $("#bfg-card").click(function () {
     // Redirect to the specified link
     window.location.href = "https://github.com/kmr-ankitt/Brainfuck-go";
