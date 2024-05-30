@@ -530,6 +530,7 @@ section .title::after {
 }
 .contact .contact-content .icons .row :hover {
     color: #111;
+    transition: 1s;
 }
 .contact .contact-content .icons .social-links {
   display: flex;
@@ -544,6 +545,7 @@ section .title::after {
 
 .contact .contact-content .icons .social-links .row :hover {
   color: #111;
+  transition: 1s;
 }
 
 .contact .contact-content .icons .social-links .row a:last-child {
