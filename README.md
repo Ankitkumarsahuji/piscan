@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio site hosted on GitHub! This site showcases my projects, skills, and experience.
 
-[https://kmr-ankitt.github.io/Piscan-portfolio/](https://kmr-ankitt.github.io/Piscan-portfolio/)
+[https://kmr-ankitt.github.io/Piscan-portfolio/](https://kmr-ankitt.github.io/Piscan-portfolio/src/index.html)
 
 ## Introduction
 
