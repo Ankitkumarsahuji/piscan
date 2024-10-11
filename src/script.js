@@ -1,8 +1,13 @@
 $(document).ready(function () {
 
   // Add click event listener to the zealot card
-  $("#zealot-card").click(function () {
+    $("#slang-card").click(function () {
     // Redirect to the specified link
+    window.location.href = "https://github.com/kmr-ankitt/S-lang";
+    });
+
+    $("#zealot-card").click(function () {
+        // Redirect to the specified link
     window.location.href = "https://github.com/kmr-ankitt/Zealot";
   });
 
